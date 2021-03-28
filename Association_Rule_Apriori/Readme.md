@@ -4,7 +4,7 @@
 ==[檔案說明]==
 > Please use UTF-8 to open those files.
 * Code: Code.py
-* Executable file: Code.exe
+* ~~Executable file: Code.exe~~ (File size too large to save in Github)
 * Output result: OutputResult_20210308_165811.txt
 
 ==[Input Data 說明]==
