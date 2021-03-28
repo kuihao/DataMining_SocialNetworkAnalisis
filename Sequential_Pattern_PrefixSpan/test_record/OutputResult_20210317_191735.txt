@@ -1,0 +1,3 @@
+PrefixSpan Algorithm: Find Sequential Patterns
+Minimum support percentage: 0.007
+7088 || 9126 || SUP: 160

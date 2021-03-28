@@ -1,0 +1,14 @@
+PrefixSpan Algorithm: Find Sequential Patterns
+Minimum support percentage: 0.005
+5447 || 5493 || SUP: 106
+8117 || 8117 || SUP: 114
+552 || 4811 || SUP: 104
+8119 || 8119 || SUP: 114
+7125 || 7125 || SUP: 134
+8617 || 8617 || SUP: 104
+8974 || 8974 || SUP: 113
+7088 || 9126 || SUP: 160
+9126 || 7088 || SUP: 125
+9126 || 9126 || SUP: 134
+9126 || 7088 9126 || SUP: 124
+2240 || 7125 || SUP: 106
